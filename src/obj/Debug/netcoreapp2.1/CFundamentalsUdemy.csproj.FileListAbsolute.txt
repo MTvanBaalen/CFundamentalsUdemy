@@ -8,3 +8,13 @@ c:\Users\M.T. van Baalen (IT)\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFu
 c:\Users\M.T. van Baalen (IT)\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFundamentalsUdemy.AssemblyInfo.cs
 c:\Users\M.T. van Baalen (IT)\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFundamentalsUdemy.dll
 c:\Users\M.T. van Baalen (IT)\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFundamentalsUdemy.pdb
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\bin\Debug\netcoreapp2.1\CFundamentalsUdemy.deps.json
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\bin\Debug\netcoreapp2.1\CFundamentalsUdemy.runtimeconfig.json
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\bin\Debug\netcoreapp2.1\CFundamentalsUdemy.runtimeconfig.dev.json
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\bin\Debug\netcoreapp2.1\CFundamentalsUdemy.dll
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\bin\Debug\netcoreapp2.1\CFundamentalsUdemy.pdb
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFundamentalsUdemy.csprojAssemblyReference.cache
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFundamentalsUdemy.AssemblyInfoInputs.cache
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFundamentalsUdemy.AssemblyInfo.cs
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFundamentalsUdemy.dll
+C:\Users\Developer\Udemy\CFundamentalsUdemy\src\obj\Debug\netcoreapp2.1\CFundamentalsUdemy.pdb
