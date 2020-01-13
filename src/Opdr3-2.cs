@@ -1,19 +1,20 @@
-﻿using System;
+/*using System;
 using System.Linq;
 using System.Collections.Generic;
 
 namespace CFundamentalsUdemy
 {
-  
+
     class Program
     {
         static void Main(string[] args)
         {
-          
+
+
 
 
             System.Console.WriteLine("Enter you name");
-            
+
 
             while (true)
             {
@@ -33,12 +34,12 @@ namespace CFundamentalsUdemy
                     System.Console.WriteLine($"Your reversed name = {RevName}");
                     break;
                 }
-                
-                
 
-                    
-                
-                    
+
+
+
+
+
             }
 
 
@@ -49,13 +50,13 @@ namespace CFundamentalsUdemy
 
         }
 
-        
-          
 
-          
 
-          
-        
-        
+
+
+
+
+
+
     }
-}
+}/*#1#*/
